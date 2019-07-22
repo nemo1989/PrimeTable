@@ -1,0 +1,2 @@
+# PrimeTable
+ prime table solution
